@@ -6,3 +6,5 @@ http://localhost:8080/v1/register
 http://localhost:8080/v1/admin/deleteAddress
 http://localhost:8080/v1/user/updateAddress
 http://localhost:8080/v1/admin/updateAddress
+Adding frontEnd API
+http://localhost:4040/v1/authenticate
