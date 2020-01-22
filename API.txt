@@ -3,3 +3,4 @@ http://localhost:8080/v1/authenticate
 http://localhost:8080/v1/register
 http://localhost:8080/v1/admin/deleteAddress
 http://localhost:8080/v1/user/updateAddress
+http://localhost:8080/v1/admin/updateAddress
